@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-07T15:26:55.566Z</updated>
+  <updated>2019-12-08T14:23:29.293Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
+    <title>My-New-Post</title>
     <link href="http://yoursite.com/2019/12/07/My-New-Post/"/>
     <id>http://yoursite.com/2019/12/07/My-New-Post/</id>
-    <published>2019-12-07T15:26:55.000Z</published>
-    <updated>2019-12-07T15:26:55.566Z</updated>
+    <published>2019-12-07T15:26:55.566Z</published>
+    <updated>2019-12-08T14:23:29.293Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: 2019.12.8<br>date: 2019-12-07 23:26:55<br>tags:  </p><hr><p>本人的博客终于开张啦！之后要做一些有意义的事情！</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;title: 2019.12.8&lt;br&gt;date: 2019-12-07 23:26:55&lt;br&gt;tags:  &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;本人的博客终于开张啦！之后要做一些有意义的事情！&lt;/p&gt;
+
+      
+    
     </summary>
     
+    
+      <category term="个人日记" scheme="http://yoursite.com/categories/%E4%B8%AA%E4%BA%BA%E6%97%A5%E8%AE%B0/"/>
     
     
   </entry>
